@@ -1,5 +1,7 @@
 # 1001 Exercícios para Praticar Programação
 
+## 🚧 Em Desenvolvimento 🚧
+
 ## Sobre.
 
 Listas de exercícios para praticar programação na sua linguem favorita.
